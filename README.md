@@ -8,7 +8,7 @@ This research project analyzes the evolution of crime trends and patterns in Mal
 
 ### 💡 Key Insights
 * **🏠 Property Crimes Dominance:**
-    Property crimes account for approximately **79%** of total incidents reported.
+    \n Property crimes account for approximately **79%** of total incidents reported.
 * **🏍️ Top Crime Category:**
     Motorcycle theft is the most frequent sub-category, with **487,977 incidents** recorded over the three-year period.
 * **📍 Geographic Hotspots:**
